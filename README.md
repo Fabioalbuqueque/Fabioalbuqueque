@@ -4,23 +4,6 @@
 
 Ola tenho 33 anos e sou natural de Recife. Concluí o ensino médio escola publica, Atualmente estou estudando por conta Propia (alto didata). Sou apaixonado por tecnologia, Perfil Instagram chamado "[fabio_albuquerque01]".
 
-    <a href="https://github.com/Fabioalbuqueque">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Fabioalbuqueque?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Fabioalbuqueque?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Fabioalbuqueque?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
