@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Ola tenho 33 anos e sou natural de Recife. Concluí o ensino médio escola publica, Atualmente estou estudando por conta Propia (alto didata). Sou apaixonado por tecnologia, Perfil Instagram chamado "[fabio_albuquerque01]".
+Ola tenho 33 anos e sou natural de Recife.  Sou apaixonado por tecnologia, Perfil Instagram chamado "[fabio_albuquerque01]".
 
 
 ### 🤖 Linguagens e Tecnologias
