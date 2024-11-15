@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Fabio albuquerque
+# 👻 Fabio albuquerque
 
 **`Desenvolvedor FullStack`**
 
