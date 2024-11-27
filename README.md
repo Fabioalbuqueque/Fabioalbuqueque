@@ -2,9 +2,6 @@
 
 **`Desenvolvedor Junior`**
 
-Ola tenho 33 anos e sou natural de Recife.  Sou apaixonado por tecnologia, Perfil Instagram chamado "[fabio_albuquerque01]".
-
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
